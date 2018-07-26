@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Table styles
-date:   2018-02-09 11:07
+date:   2018-07-26 02:36
 description: Examples of different table styles
 comments: true
 ---
